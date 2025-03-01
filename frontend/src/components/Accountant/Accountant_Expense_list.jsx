@@ -116,10 +116,10 @@ function ExpensePlanner() {
         <thead className="bg-gray-800 text-white">
           <tr>
             <th className="border border-black p-2">Months</th>
-            <th className="border border-black p-2">Vegetables</th>
-            <th className="border border-black p-2">Fruits</th>
-            <th className="border border-black p-2">Provisions</th>
-            <th className="border border-black p-2">Others</th>
+            <th className="border border-black p-2">Grocery</th>
+            <th className="border border-black p-2">Cylinder</th>
+            <th className="border border-black p-2">Milk</th>
+            <th className="border border-black p-2">Miscellaneous</th>
             <th className="border border-black p-2">Total</th>
           </tr>
         </thead>

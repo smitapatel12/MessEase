@@ -19,11 +19,11 @@ function Signup() {
     user_name: "",
   });
   const Hostels = [
-    "SwamiViveka Nand Boys Hostel(SVBH)",
-    "Bal Gangadhar Tilak Hostel(Tilak Hostel)",
-    "Sardar Ballabh Bhai Patel Hostel(Patel Hostel)",
-    "Ravindra Nath Taigore Hostel(Taigore Hostel)",
-    "Diamond Jublee Girls Hostel(DG)",
+    "Sarojini Bhawan",
+    "Saraswati Bhawan",
+    "Kalpana Bhawan",
+    "Kastorba Bhawan",
+    "New Girls Hostel",
   ];
 
   const [error, setError] = useState("");

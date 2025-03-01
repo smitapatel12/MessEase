@@ -19,11 +19,11 @@ const DAYS_OF_WEEK = [
 ];
 
 const Hostels = [
-  "SwamiViveka Nand Boys Hostel(SVBH)",
-  "Bal Gangadhar Tilak Hostel(Tilak Hostel)",
-  "Sardar Ballabh Bhai Patel Hostel(Patel Hostel)",
-  "Ravindra Nath Taigore Hostel(Taigore Hostel)",
-  "Diamond Jublee Girls Hostel(DG)",
+  "Sarojini Bhawan",
+  "Saraswati Bhawan",
+  "Kalpana Bhawan",
+  "Kasturba Bhawan",
+  "New Girls Hostel",
 ];
 
 // Set the root element for accessibility

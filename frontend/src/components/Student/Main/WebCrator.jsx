@@ -17,8 +17,8 @@ const StudentDetails = () => {
 
   const studentData = [
     {
-      Name: "Anuj Tyagi",
-      Registration_no: 20224027,
+      Name: "Rashi Gupta",
+      Registration_no: 2021021058,
       LinkedIn: "anuj-tyagi-a33265266",
       GitHub: "anujtyagi234",
       Instagram: "anujtyagi234",
@@ -31,14 +31,15 @@ const StudentDetails = () => {
       },
     },
     {
-      Name: "Sumit Chaurasiya",
-      Registration_no: 20223274,
+      Name: "Smita Patel",
+      Registration_no: 2021021077,
       LinkedIn: "sumit-chaurasiya-a0676026a",
 
       GitHub: "Sumit524",
       Instagram: "sumitchaurasiya1241",
       color: 'yellow',
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5aJZEZmb7jLq3lwFvZITon73dd73gkvlo0v0SieeWhZdZY9_7VSkntK1n3J3IvshxLbU&usqp=CAU",
+      
       customStyle: {
         borderRadius: '10px',
         marginTop: '9rem',
@@ -46,8 +47,8 @@ const StudentDetails = () => {
       },
     },
     {
-      Name: "Kushagra Verma",
-      Registration_no: 20224089,
+      Name: "Divyanshi Gautam",
+      Registration_no: 2021021034,
       LinkedIn: "kushagra-verma-a178b7253",
       GitHub: "kushagra572",
       Instagram: "kushagraverma4321",

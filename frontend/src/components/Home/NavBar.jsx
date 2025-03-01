@@ -18,7 +18,7 @@ function NavBar() {
           />
           <a href="#" className="main-heading">
             <b>
-              <big>Mess Management</big>
+              <big>MessEase</big>
             </b>
           </a>
         </div>

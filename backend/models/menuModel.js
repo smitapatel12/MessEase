@@ -1,11 +1,11 @@
 const mongoose = require('mongoose');
 
 const Hostels = [
-  "SwamiViveka Nand Boys Hostel(SVBH)",
-  "Bal Gangadhar Tilak Hostel(Tilak Hostel)",
-  "Sardar Ballabh Bhai Patel Hostel(Patel Hostel)",
-  "Ravindra Nath Taigore Hostel(Taigore Hostel)",
-  "Diamond Jublee Girls Hostel(DG)",
+  "Sarojini Bhawan",
+  "Sarswati Bhawan",
+  "Kalpana Bhawan",
+  "Kastorba Bhawan",
+  "New Girls Hostel",
 ];
 
 const Days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];

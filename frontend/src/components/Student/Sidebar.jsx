@@ -21,7 +21,7 @@ function Sidebar({ onMenuItemClick }) {
     { title: 'Resolved-Complains', image: openmassagepng },
     { title: 'Contact', image: contact },
     { title: 'Rules', image: rule },
-    { title: 'Mnnit Alld', image: collage },
+    { title: 'MMMUT Gorakhpur', image: collage },
     { title: 'WebCrator', image: team },
    
     

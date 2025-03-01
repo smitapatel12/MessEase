@@ -17,10 +17,7 @@ function Sidebar({ onMenuItemClick }) {
     { title: 'Mess-Menu', image: menu },
     { title: 'Unresolved-complains', image: complain },
     { title: 'Resolved-complains', image: Message },
-    { title: 'Notices', image: Notices_image},
-
-
-    
+    { title: 'Notices', image: Notices_image},    
   ];
 
   const initialSelectedIndex = menuItems.findIndex((item) => item.title === 'Pofile');

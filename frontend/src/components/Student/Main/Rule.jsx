@@ -55,7 +55,7 @@ function Rule() {
 				<RuleItem
 					number={9}
 					rule="Feedback Matters"
-					description="Provide constructive feedback to the mess management."
+					description="Provide constructive feedback to the gement."
 				/>
 				<RuleItem
 					number={10}
