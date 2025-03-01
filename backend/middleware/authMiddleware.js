@@ -6,12 +6,14 @@ const Accountant = require('../models/accountantModel')
 require("dotenv").config();
 
 const authMiddleware = async (req, res, next) => {
+  console.log("Request Headers:", req.headers);
   const authtoken = req.headers.authorization;
 
   if (!authtoken || !authtoken.startsWith('Bearer ')) {
     console.error("Authorization header missing or incorrect format.");
     return res.status(401).json({ error: 'Unauthorized: No token provided' });
   }
+  
   const token = authtoken.slice(7);
 
   try {
